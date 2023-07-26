@@ -1,0 +1,17 @@
+body{
+    background-color: #1D2630;
+}
+*{
+    color:#fff;
+}
+#update{
+    display:none;
+}
+p{
+    color: #1D2630;
+}
+td {
+    max-width: 90px; /* Remplacez 200px par la taille désirée pour la cellule */
+    word-wrap: break-word;
+}
+
